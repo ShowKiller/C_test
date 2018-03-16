@@ -29,5 +29,11 @@
     <ClCompile Include="demo_04_变量的本质.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="demo_05静态储存区理解.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="demo_06堆栈区的理解.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

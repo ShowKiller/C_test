@@ -22,6 +22,8 @@
     <ClCompile Include="demo03_数据类型分析.cpp" />
     <ClCompile Include="demo_02学习标准.c" />
     <ClCompile Include="demo_04_变量的本质.c" />
+    <ClCompile Include="demo_05静态储存区理解.c" />
+    <ClCompile Include="demo_06堆栈区的理解.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="socketclient.h" />

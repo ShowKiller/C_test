@@ -24,6 +24,7 @@ int socketclient_init2(void **handle);
 int socketclient_send2(void *handle, unsigned char *buf, int buflen);
 //socket 客户端报文接受
 int socketclient_recv2(void *handle, unsigned char **buf, int buflen);
+int socketclient_Free(unsigned char **buf);; //add
 //socket 客户端环境释放
 int socketclient_destory2(void **handle);
 

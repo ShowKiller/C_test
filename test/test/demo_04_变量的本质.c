@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdio.h>
 
-void main()
+void main6666666()
 {
 	int a;
 	a = 10;//Ö±½Ó¸³Öµ

@@ -1,2 +1,5 @@
-﻿  test.vcxproj -> G:\C++\test\Debug\test.exe
-  test.vcxproj -> G:\C++\test\Debug\test.pdb (Full PDB)
+﻿  demo_06堆栈区的理解.c
+g:\c++\test\test\demo_06堆栈区的理解.c(19): error C2065: “cin”: 未声明的标识符
+g:\c++\test\test\demo_06堆栈区的理解.c(19): error C2224: “.get”的左侧必须具有结构/联合类型
+g:\c++\test\test\demo_06堆栈区的理解.c(20): error C2065: “cin”: 未声明的标识符
+g:\c++\test\test\demo_06堆栈区的理解.c(20): error C2224: “.get”的左侧必须具有结构/联合类型
